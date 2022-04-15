@@ -11,4 +11,4 @@
 - Relizar o login: **/api/v1/auth/login**
 	- O token será retornado no body, utilizar ele no campo do **Authorize**: Bearer **token**
 
-![]()
+![](https://github.com/gajalves/LojaQuadrinhosAPI/blob/main/swagger.png)
